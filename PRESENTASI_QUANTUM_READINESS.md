@@ -10,11 +10,11 @@
 _Audit Kesiapan Website Kampus dan BUMN Indonesia terhadap Ancaman Quantum Computing_
 
 **Disusun oleh:**  
-[Nama Mahasiswa]  
-NIM: [NIM]
+Athallah Budiman Devia Putra
+NIM: 23076039
 
-**Mata Kuliah:** Audit Sistem Informasi  
-**Dosen:** [Nama Dosen]  
+**Mata Kuliah:** Audit Teknologi dan Sistem Informasi  
+**Dosen:** Drs. Denny Kurniadi, M.Kom. 
 **Tahun:** 2025
 
 _Catatan Presenter: Perkenalkan diri dengan percaya diri, sampaikan bahwa ini adalah proyek nyata dengan tool yang benar-benar berfungsi_
