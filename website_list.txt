@@ -1,0 +1,119 @@
+# Daftar 100 Website Kampus dan BUMN Indonesia
+# Format: satu URL per baris
+
+# Universitas Negeri
+https://www.ui.ac.id
+https://www.ugm.ac.id
+https://www.itb.ac.id
+https://www.ipb.ac.id
+https://www.undip.ac.id
+https://www.unair.ac.id
+https://www.unhas.ac.id
+https://www.upi.edu
+https://www.uny.ac.id
+https://www.unpad.ac.id
+https://www.its.ac.id
+https://www.unand.ac.id
+https://www.unsri.ac.id
+https://www.unud.ac.id
+https://www.unram.ac.id
+https://www.unej.ac.id
+https://www.ub.ac.id
+https://www.unesa.ac.id
+https://www.unj.ac.id
+https://www.unm.ac.id
+https://www.unmul.ac.id
+https://www.unsyiah.ac.id
+https://www.unila.ac.id
+https://www.ung.ac.id
+https://www.unsrat.ac.id
+
+# Universitas Swasta Terkemuka
+https://www.telkomuniversity.ac.id
+https://www.binus.ac.id
+https://www.uph.edu
+https://www.trisakti.ac.id
+https://www.gunadarma.ac.id
+https://www.mercubuana.ac.id
+https://www.atmajaya.ac.id
+https://www.umn.ac.id
+https://www.president.ac.id
+https://www.ukdw.ac.id
+
+# BUMN Sektor Energi
+https://www.pertamina.com
+https://www.pln.co.id
+https://www.pge.id
+https://www.pertagas.co.id
+https://www.petrokimia-gresik.com
+
+# BUMN Sektor Keuangan
+https://www.bri.co.id
+https://www.bni.co.id
+https://www.bankmandiri.co.id
+https://www.btn.co.id
+https://www.pegadaian.co.id
+https://www.taspen.co.id
+https://www.asabri.co.id
+https://www.jasindo.co.id
+https://www.jamsostek.co.id
+
+# BUMN Sektor Transportasi
+https://www.garuda-indonesia.com
+https://www.pelni.co.id
+https://www.kai.id
+https://www.angkasapura2.co.id
+https://www.pelindo.co.id
+https://www.djakartamrt.co.id
+
+# BUMN Sektor Telekomunikasi
+https://www.telkom.co.id
+https://www.indosat.com
+https://www.pln.co.id
+https://www.len.co.id
+https://www.inti.co.id
+
+# BUMN Sektor Konstruksi
+https://www.wika.co.id
+https://www.adhi.co.id
+https://www.pp.co.id
+https://www.hutama-karya.com
+https://www.brantas-abipraya.co.id
+https://www.wijayakarya.co.id
+
+# BUMN Sektor Farmasi & Kesehatan
+https://www.biofarma.co.id
+https://www.kimiafarma.co.id
+https://www.indofarma.id
+https://www.kalbe.co.id
+
+# BUMN Sektor Pertanian & Pangan
+https://www.ptpn3.co.id
+https://www.rajawali.co.id
+https://www.pusri.co.id
+https://www.bulog.co.id
+https://www.sang-hyang-seri.com
+
+# BUMN Sektor Industri Strategis
+https://www.bumn.go.id
+https://www.pindad.com
+https://www.pal.co.id
+https://www.dirgantara-indonesia.co.id
+https://www.dahana.id
+https://www.krakatau-steel.com
+https://www.ptba.co.id
+https://www.aneka-tambang.com
+https://www.timah.com
+https://www.batan.go.id
+
+# Website Pemerintah & Institusi
+https://www.kemenkeu.go.id
+https://www.bpkp.go.id
+https://www.bpk.go.id
+https://www.kominfo.go.id
+https://www.bssn.go.id
+https://www.kemdikbud.go.id
+https://www.ristekdikti.go.id
+https://www.beacukai.go.id
+https://www.pajak.go.id
+https://www.bi.go.id

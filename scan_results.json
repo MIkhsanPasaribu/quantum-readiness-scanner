@@ -1,0 +1,2438 @@
+{
+  "scan_metadata": {
+    "scan_time": "2025-12-29T16:47:36.922228",
+    "total_scanned": 95,
+    "scanner_version": "1.0.0"
+  },
+  "results": [
+    {
+      "url": "https://www.ui.ac.id",
+      "scan_time": "2025-12-29T16:47:36.922228",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_CHACHA20_POLY1305_SHA256",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "GB",
+          "stateOrProvinceName": "Greater Manchester",
+          "localityName": "Salford",
+          "organizationName": "Sectigo Limited",
+          "commonName": "Sectigo RSA Domain Validation Secure Server CA"
+        },
+        "certificate_expires": "Feb  3 23:59:59 2026 GMT",
+        "key_size": 4096
+      },
+      "quantum_readiness": {
+        "score": 100,
+        "max_score": 100,
+        "percentage": 100.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_CHACHA20_POLY1305_SHA256",
+          "✓ Ukuran key kuat: 4096 bit",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.ugm.ac.id",
+      "scan_time": "2025-12-29T16:47:38.204214",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "DigiCert Inc",
+          "commonName": "DigiCert Global G2 TLS RSA SHA256 2020 CA1"
+        },
+        "certificate_expires": "Mar 16 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.itb.ac.id",
+      "scan_time": "2025-12-29T16:47:40.471659",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "GB",
+          "organizationName": "Sectigo Limited",
+          "commonName": "Sectigo Public Server Authentication CA DV R36"
+        },
+        "certificate_expires": "Sep 27 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.ipb.ac.id",
+      "scan_time": "2025-12-29T16:47:42.904796",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "DigiCert Inc",
+          "commonName": "DigiCert Global G2 TLS RSA SHA256 2020 CA1"
+        },
+        "certificate_expires": "Jun 21 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.undip.ac.id",
+      "scan_time": "2025-12-29T16:47:48.538815",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.2",
+        "cipher_suite": "ECDHE-RSA-AES256-GCM-SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "DigiCert Inc",
+          "commonName": "DigiCert Global G2 TLS RSA SHA256 2020 CA1"
+        },
+        "certificate_expires": "Sep  7 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 40,
+        "max_score": 100,
+        "percentage": 40.0,
+        "status": "Not Ready",
+        "findings": [
+          "⚠ Menggunakan TLS 1.2 (disarankan upgrade ke TLS 1.3)",
+          "✗ Menggunakan cipher yang rentan quantum: ECDHE-RSA-AES256-GCM-SHA384",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sangat rentan dan perlu upgrade segera"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.unair.ac.id",
+      "scan_time": "2025-12-29T16:47:50.649873",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_128_GCM_SHA256",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "GB",
+          "stateOrProvinceName": "Greater Manchester",
+          "localityName": "Salford",
+          "organizationName": "Sectigo Limited",
+          "commonName": "Sectigo RSA Domain Validation Secure Server CA"
+        },
+        "certificate_expires": "Feb 24 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_128_GCM_SHA256",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.unhas.ac.id",
+      "scan_time": "2025-12-29T16:47:53.222428",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.2",
+        "cipher_suite": "ECDHE-RSA-AES256-GCM-SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "BE",
+          "organizationName": "GlobalSign nv-sa",
+          "commonName": "GlobalSign RSA OV SSL CA 2018"
+        },
+        "certificate_expires": "Mar 16 06:17:19 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 40,
+        "max_score": 100,
+        "percentage": 40.0,
+        "status": "Not Ready",
+        "findings": [
+          "⚠ Menggunakan TLS 1.2 (disarankan upgrade ke TLS 1.3)",
+          "✗ Menggunakan cipher yang rentan quantum: ECDHE-RSA-AES256-GCM-SHA384",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sangat rentan dan perlu upgrade segera"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.upi.edu",
+      "scan_time": "2025-12-29T16:47:56.655359",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "Google Trust Services",
+          "commonName": "WE1"
+        },
+        "certificate_expires": "Feb  8 11:08:38 2026 GMT",
+        "key_size": 256
+      },
+      "quantum_readiness": {
+        "score": 80,
+        "max_score": 100,
+        "percentage": 80.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "✗ Ukuran key lemah: 256 bit",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 403"
+    },
+    {
+      "url": "https://www.uny.ac.id",
+      "scan_time": "2025-12-29T16:47:58.326621",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "GB",
+          "organizationName": "Sectigo Limited",
+          "commonName": "Sectigo Public Server Authentication CA OV R36"
+        },
+        "certificate_expires": "Aug 28 23:59:59 2026 GMT",
+        "key_size": 4096
+      },
+      "quantum_readiness": {
+        "score": 100,
+        "max_score": 100,
+        "percentage": 100.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "✓ Ukuran key kuat: 4096 bit",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.unpad.ac.id",
+      "scan_time": "2025-12-29T16:47:59.416989",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "Google Trust Services",
+          "commonName": "WE1"
+        },
+        "certificate_expires": "Mar  4 09:18:03 2026 GMT",
+        "key_size": 256
+      },
+      "quantum_readiness": {
+        "score": 80,
+        "max_score": 100,
+        "percentage": 80.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "✗ Ukuran key lemah: 256 bit",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 403"
+    },
+    {
+      "url": "https://www.its.ac.id",
+      "scan_time": "2025-12-29T16:48:00.371493",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "GB",
+          "stateOrProvinceName": "Greater Manchester",
+          "localityName": "Salford",
+          "organizationName": "Sectigo Limited",
+          "commonName": "Sectigo RSA Organization Validation Secure Server CA"
+        },
+        "certificate_expires": "May 18 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.unand.ac.id",
+      "scan_time": "2025-12-29T16:48:01.463004",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.2",
+        "cipher_suite": "ECDHE-RSA-AES256-GCM-SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "GB",
+          "organizationName": "Sectigo Limited",
+          "commonName": "Sectigo Public Server Authentication CA OV R36"
+        },
+        "certificate_expires": "Dec 27 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 40,
+        "max_score": 100,
+        "percentage": 40.0,
+        "status": "Not Ready",
+        "findings": [
+          "⚠ Menggunakan TLS 1.2 (disarankan upgrade ke TLS 1.3)",
+          "✗ Menggunakan cipher yang rentan quantum: ECDHE-RSA-AES256-GCM-SHA384",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sangat rentan dan perlu upgrade segera"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.unsri.ac.id",
+      "scan_time": "2025-12-29T16:48:03.294859",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_128_GCM_SHA256",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "DigiCert Inc",
+          "organizationalUnitName": "www.digicert.com",
+          "commonName": "RapidSSL TLS RSA CA G1"
+        },
+        "certificate_expires": "Jul 31 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_128_GCM_SHA256",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 404"
+    },
+    {
+      "url": "https://www.unud.ac.id",
+      "scan_time": "2025-12-29T16:48:04.751572",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "GB",
+          "organizationName": "Sectigo Limited",
+          "commonName": "Sectigo Public Server Authentication CA DV R36"
+        },
+        "certificate_expires": "Oct  4 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.unram.ac.id",
+      "scan_time": "2025-12-29T16:48:05.818422",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "Google Trust Services",
+          "commonName": "WE1"
+        },
+        "certificate_expires": "Mar 29 04:45:23 2026 GMT",
+        "key_size": 256
+      },
+      "quantum_readiness": {
+        "score": 80,
+        "max_score": 100,
+        "percentage": 80.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "✗ Ukuran key lemah: 256 bit",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 403"
+    },
+    {
+      "url": "https://www.unej.ac.id",
+      "scan_time": "2025-12-29T16:48:07.031503",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "Timeout"
+      },
+      "accessibility_message": "Timeout"
+    },
+    {
+      "url": "https://www.ub.ac.id",
+      "scan_time": "2025-12-29T16:48:17.611306",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "Google Trust Services",
+          "commonName": "WE1"
+        },
+        "certificate_expires": "Feb 11 23:02:45 2026 GMT",
+        "key_size": 256
+      },
+      "quantum_readiness": {
+        "score": 80,
+        "max_score": 100,
+        "percentage": 80.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "✗ Ukuran key lemah: 256 bit",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 403"
+    },
+    {
+      "url": "https://www.unesa.ac.id",
+      "scan_time": "2025-12-29T16:48:18.795249",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "Google Trust Services",
+          "commonName": "WE1"
+        },
+        "certificate_expires": "Feb  5 02:44:37 2026 GMT",
+        "key_size": 256
+      },
+      "quantum_readiness": {
+        "score": 80,
+        "max_score": 100,
+        "percentage": 80.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "✗ Ukuran key lemah: 256 bit",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.unj.ac.id",
+      "scan_time": "2025-12-29T16:48:19.931318",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "SSL Error: HTTPSConnectionPool(host='www.unj.ac.id', port=443): Max retries exceeded with url: / (Caused by SSL"
+      },
+      "accessibility_message": "SSL Error: HTTPSConnectionPool(host='www.unj.ac.id', port=443): Max retries exceeded with url: / (Caused by SSL"
+    },
+    {
+      "url": "https://www.unm.ac.id",
+      "scan_time": "2025-12-29T16:48:21.337392",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "Google Trust Services",
+          "commonName": "WE1"
+        },
+        "certificate_expires": "Feb 19 01:15:13 2026 GMT",
+        "key_size": 256
+      },
+      "quantum_readiness": {
+        "score": 80,
+        "max_score": 100,
+        "percentage": 80.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "✗ Ukuran key lemah: 256 bit",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.unmul.ac.id",
+      "scan_time": "2025-12-29T16:48:22.633132",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.2",
+        "cipher_suite": "ECDHE-RSA-AES128-GCM-SHA256",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "BE",
+          "organizationName": "GlobalSign nv-sa",
+          "commonName": "GlobalSign GCC R6 AlphaSSL CA 2023"
+        },
+        "certificate_expires": "Mar  7 08:04:40 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 40,
+        "max_score": 100,
+        "percentage": 40.0,
+        "status": "Not Ready",
+        "findings": [
+          "⚠ Menggunakan TLS 1.2 (disarankan upgrade ke TLS 1.3)",
+          "✗ Menggunakan cipher yang rentan quantum: ECDHE-RSA-AES128-GCM-SHA256",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sangat rentan dan perlu upgrade segera"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.unsyiah.ac.id",
+      "scan_time": "2025-12-29T16:48:25.384713",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "Connection Error: HTTPSConnectionPool(host='www.unsyiah.ac.id', port=443): Max retries exceeded with url: / (Caused by"
+      },
+      "accessibility_message": "Connection Error: HTTPSConnectionPool(host='www.unsyiah.ac.id', port=443): Max retries exceeded with url: / (Caused by"
+    },
+    {
+      "url": "https://www.unila.ac.id",
+      "scan_time": "2025-12-29T16:48:25.966100",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "Let's Encrypt",
+          "commonName": "R13"
+        },
+        "certificate_expires": "Feb 19 07:47:56 2026 GMT",
+        "key_size": 4096
+      },
+      "quantum_readiness": {
+        "score": 100,
+        "max_score": 100,
+        "percentage": 100.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "✓ Ukuran key kuat: 4096 bit",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.ung.ac.id",
+      "scan_time": "2025-12-29T16:48:27.574728",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "Google Trust Services",
+          "commonName": "WE1"
+        },
+        "certificate_expires": "Mar 13 01:16:14 2026 GMT",
+        "key_size": 256
+      },
+      "quantum_readiness": {
+        "score": 80,
+        "max_score": 100,
+        "percentage": 80.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "✗ Ukuran key lemah: 256 bit",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.unsrat.ac.id",
+      "scan_time": "2025-12-29T16:48:33.507918",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "DigiCert Inc",
+          "organizationalUnitName": "www.digicert.com",
+          "commonName": "GeoTrust TLS RSA CA G1"
+        },
+        "certificate_expires": "Apr  9 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.telkomuniversity.ac.id",
+      "scan_time": "2025-12-29T16:48:35.406779",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "Google Trust Services",
+          "commonName": "WE1"
+        },
+        "certificate_expires": "Mar 26 13:00:37 2026 GMT",
+        "key_size": 256
+      },
+      "quantum_readiness": {
+        "score": 80,
+        "max_score": 100,
+        "percentage": 80.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "✗ Ukuran key lemah: 256 bit",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.binus.ac.id",
+      "scan_time": "2025-12-29T16:48:37.129970",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "stateOrProvinceName": "Arizona",
+          "localityName": "Scottsdale",
+          "organizationName": "GoDaddy.com, Inc.",
+          "organizationalUnitName": "http://certs.godaddy.com/repository/",
+          "commonName": "Go Daddy Secure Certificate Authority - G2"
+        },
+        "certificate_expires": "May 16 04:37:33 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.uph.edu",
+      "scan_time": "2025-12-29T16:48:41.911214",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "GB",
+          "organizationName": "Sectigo Limited",
+          "commonName": "Sectigo Public Server Authentication CA OV R36"
+        },
+        "certificate_expires": "Oct 13 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.trisakti.ac.id",
+      "scan_time": "2025-12-29T16:48:45.174852",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "SSL Error: HTTPSConnectionPool(host='www.trisakti.ac.id', port=443): Max retries exceeded with url: / (Caused b"
+      },
+      "accessibility_message": "SSL Error: HTTPSConnectionPool(host='www.trisakti.ac.id', port=443): Max retries exceeded with url: / (Caused b"
+    },
+    {
+      "url": "https://www.gunadarma.ac.id",
+      "scan_time": "2025-12-29T16:48:46.105239",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "Let's Encrypt",
+          "commonName": "E8"
+        },
+        "certificate_expires": "Mar 23 14:57:57 2026 GMT",
+        "key_size": 256
+      },
+      "quantum_readiness": {
+        "score": 80,
+        "max_score": 100,
+        "percentage": 80.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "✗ Ukuran key lemah: 256 bit",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.mercubuana.ac.id",
+      "scan_time": "2025-12-29T16:48:51.167139",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "Google Trust Services",
+          "commonName": "WE1"
+        },
+        "certificate_expires": "Feb 23 18:37:44 2026 GMT",
+        "key_size": 256
+      },
+      "quantum_readiness": {
+        "score": 80,
+        "max_score": 100,
+        "percentage": 80.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "✗ Ukuran key lemah: 256 bit",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.atmajaya.ac.id",
+      "scan_time": "2025-12-29T16:48:53.048618",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.2",
+        "cipher_suite": "ECDHE-RSA-AES256-GCM-SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "DigiCert Inc",
+          "commonName": "DigiCert Global G2 TLS RSA SHA256 2020 CA1"
+        },
+        "certificate_expires": "Jul  4 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 40,
+        "max_score": 100,
+        "percentage": 40.0,
+        "status": "Not Ready",
+        "findings": [
+          "⚠ Menggunakan TLS 1.2 (disarankan upgrade ke TLS 1.3)",
+          "✗ Menggunakan cipher yang rentan quantum: ECDHE-RSA-AES256-GCM-SHA384",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sangat rentan dan perlu upgrade segera"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.umn.ac.id",
+      "scan_time": "2025-12-29T16:48:55.502608",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.2",
+        "cipher_suite": "ECDHE-RSA-AES128-GCM-SHA256",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "GB",
+          "stateOrProvinceName": "Greater Manchester",
+          "localityName": "Salford",
+          "organizationName": "Sectigo Limited",
+          "commonName": "Sectigo RSA Domain Validation Secure Server CA"
+        },
+        "certificate_expires": "Oct 20 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 40,
+        "max_score": 100,
+        "percentage": 40.0,
+        "status": "Not Ready",
+        "findings": [
+          "⚠ Menggunakan TLS 1.2 (disarankan upgrade ke TLS 1.3)",
+          "✗ Menggunakan cipher yang rentan quantum: ECDHE-RSA-AES128-GCM-SHA256",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sangat rentan dan perlu upgrade segera"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.president.ac.id",
+      "scan_time": "2025-12-29T16:48:56.574020",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "SSL Error: HTTPSConnectionPool(host='www.president.ac.id', port=443): Max retries exceeded with url: / (Caused "
+      },
+      "accessibility_message": "SSL Error: HTTPSConnectionPool(host='www.president.ac.id', port=443): Max retries exceeded with url: / (Caused "
+    },
+    {
+      "url": "https://www.ukdw.ac.id",
+      "scan_time": "2025-12-29T16:48:58.047276",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "Google Trust Services",
+          "commonName": "WE1"
+        },
+        "certificate_expires": "Mar 13 07:13:57 2026 GMT",
+        "key_size": 256
+      },
+      "quantum_readiness": {
+        "score": 80,
+        "max_score": 100,
+        "percentage": 80.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "✗ Ukuran key lemah: 256 bit",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 403"
+    },
+    {
+      "url": "https://www.pertamina.com",
+      "scan_time": "2025-12-29T16:48:59.209037",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "GB",
+          "stateOrProvinceName": "Greater Manchester",
+          "localityName": "Salford",
+          "organizationName": "Sectigo Limited",
+          "commonName": "Sectigo RSA Domain Validation Secure Server CA"
+        },
+        "certificate_expires": "Mar 12 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 403"
+    },
+    {
+      "url": "https://www.pln.co.id",
+      "scan_time": "2025-12-29T16:49:00.262370",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_128_GCM_SHA256",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "DigiCert Inc",
+          "organizationalUnitName": "www.digicert.com",
+          "commonName": "GeoTrust TLS RSA CA G1"
+        },
+        "certificate_expires": "Nov 13 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_128_GCM_SHA256",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.pge.id",
+      "scan_time": "2025-12-29T16:49:02.238259",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_CHACHA20_POLY1305_SHA256",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "DigiCert Inc",
+          "commonName": "DigiCert Global G2 TLS RSA SHA256 2020 CA1"
+        },
+        "certificate_expires": "Oct 17 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_CHACHA20_POLY1305_SHA256",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 403"
+    },
+    {
+      "url": "https://www.pertagas.co.id",
+      "scan_time": "2025-12-29T16:49:03.310091",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "Connection Error: HTTPSConnectionPool(host='www.pertagas.co.id', port=443): Max retries exceeded with url: / (Caused b"
+      },
+      "accessibility_message": "Connection Error: HTTPSConnectionPool(host='www.pertagas.co.id', port=443): Max retries exceeded with url: / (Caused b"
+    },
+    {
+      "url": "https://www.petrokimia-gresik.com",
+      "scan_time": "2025-12-29T16:49:06.762384",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "SSL Error: HTTPSConnectionPool(host='www.petrokimia-gresik.com', port=443): Max retries exceeded with url: / (C"
+      },
+      "accessibility_message": "SSL Error: HTTPSConnectionPool(host='www.petrokimia-gresik.com', port=443): Max retries exceeded with url: / (C"
+    },
+    {
+      "url": "https://www.bri.co.id",
+      "scan_time": "2025-12-29T16:49:08.119128",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_128_GCM_SHA256",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "DigiCert Inc",
+          "commonName": "DigiCert EV RSA CA G2"
+        },
+        "certificate_expires": "Apr  2 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_128_GCM_SHA256",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 403"
+    },
+    {
+      "url": "https://www.bni.co.id",
+      "scan_time": "2025-12-29T16:49:10.600248",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_128_GCM_SHA256",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "DigiCert Inc",
+          "commonName": "DigiCert Global G2 TLS RSA SHA256 2020 CA1"
+        },
+        "certificate_expires": "Feb 12 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_128_GCM_SHA256",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 403"
+    },
+    {
+      "url": "https://www.bankmandiri.co.id",
+      "scan_time": "2025-12-29T16:49:12.073239",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "DigiCert Inc",
+          "commonName": "DigiCert EV RSA CA G2"
+        },
+        "certificate_expires": "Apr 15 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.btn.co.id",
+      "scan_time": "2025-12-29T16:49:13.364360",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_128_GCM_SHA256",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "DigiCert Inc",
+          "commonName": "DigiCert EV RSA CA G2"
+        },
+        "certificate_expires": "Mar 15 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_128_GCM_SHA256",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 403"
+    },
+    {
+      "url": "https://www.pegadaian.co.id",
+      "scan_time": "2025-12-29T16:49:14.371385",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "DigiCert Inc",
+          "commonName": "DigiCert TLS RSA SHA256 2020 CA1"
+        },
+        "certificate_expires": "Jan  9 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.taspen.co.id",
+      "scan_time": "2025-12-29T16:49:15.832583",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "BE",
+          "organizationName": "GlobalSign nv-sa",
+          "commonName": "GlobalSign GCC R3 DV TLS CA 2020"
+        },
+        "certificate_expires": "Mar  6 12:29:14 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.asabri.co.id",
+      "scan_time": "2025-12-29T16:49:17.584318",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.2",
+        "cipher_suite": "ECDHE-RSA-AES128-GCM-SHA256",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "DigiCert Inc",
+          "organizationalUnitName": "www.digicert.com",
+          "commonName": "GeoTrust TLS RSA CA G1"
+        },
+        "certificate_expires": "Jul 25 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 40,
+        "max_score": 100,
+        "percentage": 40.0,
+        "status": "Not Ready",
+        "findings": [
+          "⚠ Menggunakan TLS 1.2 (disarankan upgrade ke TLS 1.3)",
+          "✗ Menggunakan cipher yang rentan quantum: ECDHE-RSA-AES128-GCM-SHA256",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sangat rentan dan perlu upgrade segera"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.jasindo.co.id",
+      "scan_time": "2025-12-29T16:49:19.585669",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "SSL Error: HTTPSConnectionPool(host='www.jasindo.co.id', port=443): Max retries exceeded with url: / (Caused by"
+      },
+      "accessibility_message": "SSL Error: HTTPSConnectionPool(host='www.jasindo.co.id', port=443): Max retries exceeded with url: / (Caused by"
+    },
+    {
+      "url": "https://www.jamsostek.co.id",
+      "scan_time": "2025-12-29T16:49:20.530651",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "SSL Error: HTTPSConnectionPool(host='www.jamsostek.co.id', port=443): Max retries exceeded with url: / (Caused "
+      },
+      "accessibility_message": "SSL Error: HTTPSConnectionPool(host='www.jamsostek.co.id', port=443): Max retries exceeded with url: / (Caused "
+    },
+    {
+      "url": "https://www.garuda-indonesia.com",
+      "scan_time": "2025-12-29T16:49:21.617641",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "DigiCert Inc",
+          "commonName": "GeoTrust EV RSA CA G2"
+        },
+        "certificate_expires": "Aug 14 23:59:59 2026 GMT",
+        "key_size": 4096
+      },
+      "quantum_readiness": {
+        "score": 100,
+        "max_score": 100,
+        "percentage": 100.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "✓ Ukuran key kuat: 4096 bit",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.pelni.co.id",
+      "scan_time": "2025-12-29T16:49:22.833845",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "BE",
+          "organizationName": "GlobalSign nv-sa",
+          "commonName": "GlobalSign GCC R3 DV TLS CA 2020"
+        },
+        "certificate_expires": "Apr 19 01:20:39 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 403"
+    },
+    {
+      "url": "https://www.kai.id",
+      "scan_time": "2025-12-29T16:49:24.099270",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "GB",
+          "stateOrProvinceName": "Greater Manchester",
+          "localityName": "Salford",
+          "organizationName": "Sectigo Limited",
+          "commonName": "Sectigo RSA Extended Validation Secure Server CA"
+        },
+        "certificate_expires": "Oct 21 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 403"
+    },
+    {
+      "url": "https://www.angkasapura2.co.id",
+      "scan_time": "2025-12-29T16:49:25.261051",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "Connection Error: HTTPSConnectionPool(host='www.angkasapura2.co.id', port=443): Max retries exceeded with url: / (Caus"
+      },
+      "accessibility_message": "Connection Error: HTTPSConnectionPool(host='www.angkasapura2.co.id', port=443): Max retries exceeded with url: / (Caus"
+    },
+    {
+      "url": "https://www.pelindo.co.id",
+      "scan_time": "2025-12-29T16:49:25.813413",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.2",
+        "cipher_suite": "ECDHE-RSA-AES128-GCM-SHA256",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "DigiCert Inc",
+          "commonName": "DigiCert Global G2 TLS RSA SHA256 2020 CA1"
+        },
+        "certificate_expires": "Mar 18 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 40,
+        "max_score": 100,
+        "percentage": 40.0,
+        "status": "Not Ready",
+        "findings": [
+          "⚠ Menggunakan TLS 1.2 (disarankan upgrade ke TLS 1.3)",
+          "✗ Menggunakan cipher yang rentan quantum: ECDHE-RSA-AES128-GCM-SHA256",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sangat rentan dan perlu upgrade segera"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.djakartamrt.co.id",
+      "scan_time": "2025-12-29T16:49:27.166170",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "Connection Error: HTTPSConnectionPool(host='www.djakartamrt.co.id', port=443): Max retries exceeded with url: / (Cause"
+      },
+      "accessibility_message": "Connection Error: HTTPSConnectionPool(host='www.djakartamrt.co.id', port=443): Max retries exceeded with url: / (Cause"
+    },
+    {
+      "url": "https://www.telkom.co.id",
+      "scan_time": "2025-12-29T16:49:29.768499",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "DigiCert, Inc.",
+          "commonName": "GeoTrust Global TLS RSA4096 SHA256 2022 CA1"
+        },
+        "certificate_expires": "Feb 25 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.indosat.com",
+      "scan_time": "2025-12-29T16:49:31.372496",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "Connection Error: HTTPSConnectionPool(host='www.indosat.com', port=443): Max retries exceeded with url: / (Caused by N"
+      },
+      "accessibility_message": "Connection Error: HTTPSConnectionPool(host='www.indosat.com', port=443): Max retries exceeded with url: / (Caused by N"
+    },
+    {
+      "url": "https://www.pln.co.id",
+      "scan_time": "2025-12-29T16:49:32.089140",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_128_GCM_SHA256",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "DigiCert Inc",
+          "organizationalUnitName": "www.digicert.com",
+          "commonName": "GeoTrust TLS RSA CA G1"
+        },
+        "certificate_expires": "Nov 13 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_128_GCM_SHA256",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.len.co.id",
+      "scan_time": "2025-12-29T16:49:34.551151",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "DigiCert Inc",
+          "organizationalUnitName": "www.digicert.com",
+          "commonName": "GeoTrust TLS RSA CA G1"
+        },
+        "certificate_expires": "Apr 17 23:59:59 2026 GMT",
+        "key_size": 4096
+      },
+      "quantum_readiness": {
+        "score": 100,
+        "max_score": 100,
+        "percentage": 100.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "✓ Ukuran key kuat: 4096 bit",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.inti.co.id",
+      "scan_time": "2025-12-29T16:49:36.456336",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "GB",
+          "stateOrProvinceName": "Greater Manchester",
+          "localityName": "Salford",
+          "organizationName": "Sectigo Limited",
+          "commonName": "Sectigo RSA Domain Validation Secure Server CA"
+        },
+        "certificate_expires": "Feb 17 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.wika.co.id",
+      "scan_time": "2025-12-29T16:49:39.503045",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.2",
+        "cipher_suite": "ECDHE-RSA-AES128-GCM-SHA256",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "GB",
+          "stateOrProvinceName": "Greater Manchester",
+          "localityName": "Salford",
+          "organizationName": "Sectigo Limited",
+          "commonName": "Sectigo RSA Domain Validation Secure Server CA"
+        },
+        "certificate_expires": "Jun 21 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 40,
+        "max_score": 100,
+        "percentage": 40.0,
+        "status": "Not Ready",
+        "findings": [
+          "⚠ Menggunakan TLS 1.2 (disarankan upgrade ke TLS 1.3)",
+          "✗ Menggunakan cipher yang rentan quantum: ECDHE-RSA-AES128-GCM-SHA256",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sangat rentan dan perlu upgrade segera"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.adhi.co.id",
+      "scan_time": "2025-12-29T16:49:42.319125",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "SSL Error: HTTPSConnectionPool(host='www.adhi.co.id', port=443): Max retries exceeded with url: / (Caused by SS"
+      },
+      "accessibility_message": "SSL Error: HTTPSConnectionPool(host='www.adhi.co.id', port=443): Max retries exceeded with url: / (Caused by SS"
+    },
+    {
+      "url": "https://www.pp.co.id",
+      "scan_time": "2025-12-29T16:49:43.166504",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "Connection Error: HTTPSConnectionPool(host='www.pp.co.id', port=443): Max retries exceeded with url: / (Caused by Name"
+      },
+      "accessibility_message": "Connection Error: HTTPSConnectionPool(host='www.pp.co.id', port=443): Max retries exceeded with url: / (Caused by Name"
+    },
+    {
+      "url": "https://www.hutama-karya.com",
+      "scan_time": "2025-12-29T16:49:44.523149",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "Connection Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by t"
+      },
+      "accessibility_message": "Connection Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by t"
+    },
+    {
+      "url": "https://www.brantas-abipraya.co.id",
+      "scan_time": "2025-12-29T16:49:45.391886",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_128_GCM_SHA256",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "GB",
+          "stateOrProvinceName": "Greater Manchester",
+          "localityName": "Salford",
+          "organizationName": "Sectigo Limited",
+          "commonName": "Sectigo RSA Domain Validation Secure Server CA"
+        },
+        "certificate_expires": "Apr  9 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_128_GCM_SHA256",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.wijayakarya.co.id",
+      "scan_time": "2025-12-29T16:49:46.586742",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "Connection Error: HTTPSConnectionPool(host='www.wijayakarya.co.id', port=443): Max retries exceeded with url: / (Cause"
+      },
+      "accessibility_message": "Connection Error: HTTPSConnectionPool(host='www.wijayakarya.co.id', port=443): Max retries exceeded with url: / (Cause"
+    },
+    {
+      "url": "https://www.biofarma.co.id",
+      "scan_time": "2025-12-29T16:49:50.475491",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "GB",
+          "stateOrProvinceName": "Greater Manchester",
+          "localityName": "Salford",
+          "organizationName": "Sectigo Limited",
+          "commonName": "Sectigo RSA Organization Validation Secure Server CA"
+        },
+        "certificate_expires": "Sep  5 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.kimiafarma.co.id",
+      "scan_time": "2025-12-29T16:49:51.843753",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "GB",
+          "stateOrProvinceName": "Greater Manchester",
+          "localityName": "Salford",
+          "organizationName": "Sectigo Limited",
+          "commonName": "Sectigo RSA Domain Validation Secure Server CA"
+        },
+        "certificate_expires": "Jan 23 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.indofarma.id",
+      "scan_time": "2025-12-29T16:49:53.086099",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "GB",
+          "stateOrProvinceName": "Greater Manchester",
+          "localityName": "Salford",
+          "organizationName": "Sectigo Limited",
+          "commonName": "Sectigo RSA Domain Validation Secure Server CA"
+        },
+        "certificate_expires": "Jun  5 23:59:59 2026 GMT",
+        "key_size": 4096
+      },
+      "quantum_readiness": {
+        "score": 100,
+        "max_score": 100,
+        "percentage": 100.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "✓ Ukuran key kuat: 4096 bit",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.kalbe.co.id",
+      "scan_time": "2025-12-29T16:49:58.132835",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.2",
+        "cipher_suite": "ECDHE-RSA-AES128-GCM-SHA256",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "GB",
+          "organizationName": "Sectigo Limited",
+          "commonName": "Sectigo Public Server Authentication CA DV R36"
+        },
+        "certificate_expires": "Jul 25 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 40,
+        "max_score": 100,
+        "percentage": 40.0,
+        "status": "Not Ready",
+        "findings": [
+          "⚠ Menggunakan TLS 1.2 (disarankan upgrade ke TLS 1.3)",
+          "✗ Menggunakan cipher yang rentan quantum: ECDHE-RSA-AES128-GCM-SHA256",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sangat rentan dan perlu upgrade segera"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.ptpn3.co.id",
+      "scan_time": "2025-12-29T16:49:59.864852",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "Timeout"
+      },
+      "accessibility_message": "Timeout"
+    },
+    {
+      "url": "https://www.rajawali.co.id",
+      "scan_time": "2025-12-29T16:50:12.766963",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "Connection Error: HTTPSConnectionPool(host='www.rajawali.co.id', port=443): Max retries exceeded with url: / (Caused b"
+      },
+      "accessibility_message": "Connection Error: HTTPSConnectionPool(host='www.rajawali.co.id', port=443): Max retries exceeded with url: / (Caused b"
+    },
+    {
+      "url": "https://www.pusri.co.id",
+      "scan_time": "2025-12-29T16:50:13.587922",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "Google Trust Services",
+          "commonName": "WE1"
+        },
+        "certificate_expires": "Feb 24 05:05:18 2026 GMT",
+        "key_size": 256
+      },
+      "quantum_readiness": {
+        "score": 80,
+        "max_score": 100,
+        "percentage": 80.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "✗ Ukuran key lemah: 256 bit",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.bulog.co.id",
+      "scan_time": "2025-12-29T16:50:14.784720",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.2",
+        "cipher_suite": "ECDHE-RSA-AES128-GCM-SHA256",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "DigiCert Inc",
+          "commonName": "DigiCert Global G2 TLS RSA SHA256 2020 CA1"
+        },
+        "certificate_expires": "Jun 23 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 40,
+        "max_score": 100,
+        "percentage": 40.0,
+        "status": "Not Ready",
+        "findings": [
+          "⚠ Menggunakan TLS 1.2 (disarankan upgrade ke TLS 1.3)",
+          "✗ Menggunakan cipher yang rentan quantum: ECDHE-RSA-AES128-GCM-SHA256",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sangat rentan dan perlu upgrade segera"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.sang-hyang-seri.com",
+      "scan_time": "2025-12-29T16:50:16.708601",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "Connection Error: HTTPSConnectionPool(host='www.sang-hyang-seri.com', port=443): Max retries exceeded with url: / (Cau"
+      },
+      "accessibility_message": "Connection Error: HTTPSConnectionPool(host='www.sang-hyang-seri.com', port=443): Max retries exceeded with url: / (Cau"
+    },
+    {
+      "url": "https://www.bumn.go.id",
+      "scan_time": "2025-12-29T16:50:17.640926",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.2",
+        "cipher_suite": "ECDHE-RSA-AES256-GCM-SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "DigiCert Inc",
+          "commonName": "DigiCert Global G2 TLS RSA SHA256 2020 CA1"
+        },
+        "certificate_expires": "Jan 18 23:59:59 2027 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 40,
+        "max_score": 100,
+        "percentage": 40.0,
+        "status": "Not Ready",
+        "findings": [
+          "⚠ Menggunakan TLS 1.2 (disarankan upgrade ke TLS 1.3)",
+          "✗ Menggunakan cipher yang rentan quantum: ECDHE-RSA-AES256-GCM-SHA384",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sangat rentan dan perlu upgrade segera"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.pindad.com",
+      "scan_time": "2025-12-29T16:50:19.862495",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "Timeout"
+      },
+      "accessibility_message": "Timeout"
+    },
+    {
+      "url": "https://www.pal.co.id",
+      "scan_time": "2025-12-29T16:50:32.492793",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "Google Trust Services",
+          "commonName": "WE1"
+        },
+        "certificate_expires": "Mar  7 06:44:20 2026 GMT",
+        "key_size": 256
+      },
+      "quantum_readiness": {
+        "score": 80,
+        "max_score": 100,
+        "percentage": 80.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "✗ Ukuran key lemah: 256 bit",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 403"
+    },
+    {
+      "url": "https://www.dirgantara-indonesia.co.id",
+      "scan_time": "2025-12-29T16:50:33.454728",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "Connection Error: HTTPSConnectionPool(host='www.dirgantara-indonesia.co.id', port=443): Max retries exceeded with url:"
+      },
+      "accessibility_message": "Connection Error: HTTPSConnectionPool(host='www.dirgantara-indonesia.co.id', port=443): Max retries exceeded with url:"
+    },
+    {
+      "url": "https://www.dahana.id",
+      "scan_time": "2025-12-29T16:50:34.575460",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "GB",
+          "organizationName": "Sectigo Limited",
+          "commonName": "Sectigo Public Server Authentication CA DV R36"
+        },
+        "certificate_expires": "Jun 15 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.krakatau-steel.com",
+      "scan_time": "2025-12-29T16:50:39.911801",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "Connection Error: HTTPSConnectionPool(host='www.krakatau-steel.com', port=443): Max retries exceeded with url: / (Caus"
+      },
+      "accessibility_message": "Connection Error: HTTPSConnectionPool(host='www.krakatau-steel.com', port=443): Max retries exceeded with url: / (Caus"
+    },
+    {
+      "url": "https://www.ptba.co.id",
+      "scan_time": "2025-12-29T16:50:40.836270",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "Google Trust Services",
+          "commonName": "WE1"
+        },
+        "certificate_expires": "Feb 10 02:13:46 2026 GMT",
+        "key_size": 256
+      },
+      "quantum_readiness": {
+        "score": 80,
+        "max_score": 100,
+        "percentage": 80.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "✗ Ukuran key lemah: 256 bit",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.aneka-tambang.com",
+      "scan_time": "2025-12-29T16:50:43.315904",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "Connection Error: HTTPSConnectionPool(host='www.aneka-tambang.com', port=443): Max retries exceeded with url: / (Cause"
+      },
+      "accessibility_message": "Connection Error: HTTPSConnectionPool(host='www.aneka-tambang.com', port=443): Max retries exceeded with url: / (Cause"
+    },
+    {
+      "url": "https://www.timah.com",
+      "scan_time": "2025-12-29T16:50:44.236665",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "Timeout"
+      },
+      "accessibility_message": "Timeout"
+    },
+    {
+      "url": "https://www.batan.go.id",
+      "scan_time": "2025-12-29T16:50:55.010509",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "Connection Error: HTTPSConnectionPool(host='www.batan.go.id', port=443): Max retries exceeded with url: / (Caused by N"
+      },
+      "accessibility_message": "Connection Error: HTTPSConnectionPool(host='www.batan.go.id', port=443): Max retries exceeded with url: / (Caused by N"
+    },
+    {
+      "url": "https://www.kemenkeu.go.id",
+      "scan_time": "2025-12-29T16:50:55.614120",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "DigiCert Inc",
+          "commonName": "DigiCert Global G2 TLS RSA SHA256 2020 CA1"
+        },
+        "certificate_expires": "Mar 20 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.bpkp.go.id",
+      "scan_time": "2025-12-29T16:50:56.689199",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_128_GCM_SHA256",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "DigiCert Inc",
+          "commonName": "DigiCert Global G2 TLS RSA SHA256 2020 CA1"
+        },
+        "certificate_expires": "Nov 24 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_128_GCM_SHA256",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.bpk.go.id",
+      "scan_time": "2025-12-29T16:50:57.912863",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "Google Trust Services",
+          "commonName": "WE1"
+        },
+        "certificate_expires": "Mar 12 04:35:28 2026 GMT",
+        "key_size": 256
+      },
+      "quantum_readiness": {
+        "score": 80,
+        "max_score": 100,
+        "percentage": 80.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "✗ Ukuran key lemah: 256 bit",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 403"
+    },
+    {
+      "url": "https://www.kominfo.go.id",
+      "scan_time": "2025-12-29T16:50:59.042189",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "Connection Error: HTTPSConnectionPool(host='www.kominfo.go.id', port=443): Max retries exceeded with url: / (Caused by"
+      },
+      "accessibility_message": "Connection Error: HTTPSConnectionPool(host='www.kominfo.go.id', port=443): Max retries exceeded with url: / (Caused by"
+    },
+    {
+      "url": "https://www.bssn.go.id",
+      "scan_time": "2025-12-29T16:51:01.320829",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "DigiCert Inc",
+          "commonName": "DigiCert Global G2 TLS RSA SHA256 2020 CA1"
+        },
+        "certificate_expires": "Nov  6 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.kemdikbud.go.id",
+      "scan_time": "2025-12-29T16:51:03.861963",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "Connection Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "accessibility_message": "Connection Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
+      "url": "https://www.ristekdikti.go.id",
+      "scan_time": "2025-12-29T16:51:05.121100",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "Connection Error: HTTPSConnectionPool(host='www.ristekdikti.go.id', port=443): Max retries exceeded with url: / (Cause"
+      },
+      "accessibility_message": "Connection Error: HTTPSConnectionPool(host='www.ristekdikti.go.id', port=443): Max retries exceeded with url: / (Cause"
+    },
+    {
+      "url": "https://www.beacukai.go.id",
+      "scan_time": "2025-12-29T16:51:05.702248",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_256_GCM_SHA384",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "GB",
+          "stateOrProvinceName": "Greater Manchester",
+          "localityName": "Salford",
+          "organizationName": "Sectigo Limited",
+          "commonName": "Sectigo RSA Domain Validation Secure Server CA"
+        },
+        "certificate_expires": "Mar 11 23:59:59 2026 GMT",
+        "key_size": 2048
+      },
+      "quantum_readiness": {
+        "score": 90,
+        "max_score": 100,
+        "percentage": 90.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_256_GCM_SHA384",
+          "⚠ Ukuran key standar: 2048 bit (disarankan 3072+ bit)",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.pajak.go.id",
+      "scan_time": "2025-12-29T16:51:06.956482",
+      "accessible": true,
+      "ssl_info": {
+        "tls_version": "TLSv1.3",
+        "cipher_suite": "TLS_AES_128_GCM_SHA256",
+        "certificate_valid": true,
+        "certificate_issuer": {
+          "countryName": "US",
+          "organizationName": "DigiCert Inc",
+          "commonName": "DigiCert Global G2 TLS RSA SHA256 2020 CA1"
+        },
+        "certificate_expires": "Feb 20 23:59:59 2026 GMT",
+        "key_size": 4096
+      },
+      "quantum_readiness": {
+        "score": 100,
+        "max_score": 100,
+        "percentage": 100.0,
+        "status": "Quantum-Ready",
+        "findings": [
+          "✓ Menggunakan TLS 1.3 (standar terbaru)",
+          "✓ Menggunakan cipher quantum-safe: TLS_AES_128_GCM_SHA256",
+          "✓ Ukuran key kuat: 4096 bit",
+          "✓ Sertifikat SSL valid"
+        ],
+        "recommendation": "Website sudah memiliki kesiapan baik terhadap ancaman quantum"
+      },
+      "accessibility_message": "HTTP 200"
+    },
+    {
+      "url": "https://www.bi.go.id",
+      "scan_time": "2025-12-29T16:51:08.264348",
+      "accessible": false,
+      "ssl_info": {},
+      "quantum_readiness": {
+        "status": "Inaccessible",
+        "score": 0,
+        "message": "Connection Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "accessibility_message": "Connection Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    }
+  ]
+}
